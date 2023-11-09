@@ -36,7 +36,7 @@ Route::put('update', [ServicoController::class, 'update']);
 
 //------------------------------------------------------------------------------CLIENTES--------------------------------------------------------------------------------//
 
-Route::post('store/Cliente', [ClienteController::class, 'storeCliente']); //Cadastrar
+Route::post('store/Cliente', [ClienteController::class, 'store']); //Cadastrar
 
 Route::get('all/Cliente', [ClienteController::class, 'retornarTodosClientes']); //vizualizar
 
