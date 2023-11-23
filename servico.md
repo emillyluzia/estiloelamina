@@ -1,4 +1,4 @@
- ## Cadastro cliente
+ ## Cadastro Serviço
  Este campo contém imputs para o usuário (cliente) fazer o login  no site 
 
 - nome
