@@ -46,6 +46,8 @@ git config --global user.name "emillyluzia"
 * Cadastro de [cliente](cliente.md)
 * Cadastro de [profissionais](profissionais.md)
 * Cadastro de [servico](servico.md)
+* Cadastro de [agenda](agenda.md)
+
 
 
 
