@@ -15,7 +15,7 @@ Certifique-se de ter os seguintes requisitos atendidos antes de começar a traba
 
 1. Clone este repositório para o seu ambiente de desenvolvimento local utilizando o comando:
 ```
- git clone https://github.com/emillyluzia/academia-api.git
+ git clone https://github.com/emillyluzia/estiloelamina.git
  ```
 2. Acesse o diretório do projeto:
 ```
@@ -44,9 +44,9 @@ git config --global user.name "emillyluzia"
 ## Funcionálidades
 
 * Cadastro de [cliente](cliente.md)
-* Cadastro de [produto](produto.md)
-* Cadastro de [fornecedores](fornecedores.md)
-* Cadastro de [funcionario](funcionarios.md)
+* Cadastro de [profissionais](profissionais.md)
+* Cadastro de [servico](servico.md)
+
 
 
 

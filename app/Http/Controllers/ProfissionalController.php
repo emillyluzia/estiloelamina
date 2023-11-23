@@ -28,6 +28,9 @@ class ProfissionalController extends Controller
             'bairro' => $request->bairro,
             'cep' => $request->cep,
             'senha' => $request->senha
+            
+
+
 
 
         ]);
@@ -146,6 +149,7 @@ class ProfissionalController extends Controller
         if (isset($request->senha)) {
             $profissional->senha = $request->senha;
         }
+        
 
 
         $profissional->update();
